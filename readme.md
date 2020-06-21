@@ -107,7 +107,7 @@
                     <li>iconStyle</li>
                 </ul>
             </td>
-            <td>IAkordeonun kapandığında simgesinin biçim</td>
+            <td>Akordeonun kapandığında simgesinin biçim</td>
             <td></td>
         </tr>
         <tr>
@@ -140,7 +140,7 @@
         <!-- ActionSheet -->
         <tr style="background-color: #f5f5f5">
             <td>&lt;ActionSheet></td>
-            <td>Flexible and extensible content container</td>
+            <td>Esnek ve uzayabilir içerik konteyneri</td>
             <td>
                 React Native
                 <a href="http://facebook.github.io/react-native/docs/modal.html">
@@ -154,7 +154,7 @@
                     <li>options</li>
                 </ul>
             </td>
-            <td>List of button titles</td>
+            <td>Buton başlıkları listesi</td>
             <td></td>
         </tr>
         <tr>
@@ -163,7 +163,7 @@
                     <li>cancelButtonIndex</li>
                 </ul>
             </td>
-            <td>index of cancel button in 'options'</td>
+            <td>'options' içindeki iptal butonu dizisi</td>
             <td></td>
         </tr>
         <tr>
@@ -172,7 +172,7 @@
                     <li>destructiveButtonIndex</li>
                 </ul>
             </td>
-            <td>index of destructive button in 'options'</td>
+            <td>'options' içindeki yıkıcı buton dizisi</td>
             <td></td>
         </tr>
         <tr>
@@ -181,7 +181,7 @@
                     <li>title</li>
                 </ul>
             </td>
-            <td>a title to show above the ActionSheet</td>
+            <td>ActionSheet üzerinde bir başlık gösteriri</td>
             <td></td>
         </tr>
         <tr>
@@ -190,7 +190,7 @@
                     <li>show()</li>
                 </ul>
             </td>
-            <td>show ActionSheet</td>
+            <td>ActionSheet gösterir</td>
             <td></td>
         </tr>
         <tr>
@@ -199,14 +199,14 @@
                     <li>hide()</li>
                 </ul>
             </td>
-            <td>hide ActionSheet</td>
+            <td>ActionSheet gizler</td>
             <td></td>
         </tr>
         <!-- Badge -->
         <tr style="background-color: #f5f5f5">
             <td>&lt;Badge></td>
             <td>
-                Numerical indicators used to notify an element<br />
+                Bir öğeyi bildirmek için kullanılan sayısal göstergeler<br />
             </td>
             <td>React Native
                 <a href="https://facebook.github.io/react-native/docs/view.html">
@@ -220,7 +220,7 @@
                     <li>primary</li>
                 </ul>
             </td>
-            <td>blue background color</td>
+            <td>Mavi arka plan rengi</td>
             <td></td>
         </tr>
         <tr>
@@ -229,7 +229,7 @@
                     <li>success</li>
                 </ul>
             </td>
-            <td>green background color</td>
+            <td>Yeşil arka plan rengi</td>
             <td></td>
         </tr>
         <tr>
@@ -238,7 +238,7 @@
                     <li>info</li>
                 </ul>
             </td>
-            <td>light blue background color</td>
+            <td>Açık mavi arka plan rengi</td>
             <td></td>
         </tr>
         <tr>
@@ -247,7 +247,7 @@
                     <li>warning</li>
                 </ul>
             </td>
-            <td>yellow background color</td>
+            <td>Sarı arka plan rengi</td>
             <td></td>
         </tr>
         <tr>
@@ -256,7 +256,7 @@
                     <li>danger</li>
                 </ul>
             </td>
-            <td>red background color</td>
+            <td>Kırmızı arka plan rengi</td>
             <td></td>
         </tr>
         <!-- Button -->
