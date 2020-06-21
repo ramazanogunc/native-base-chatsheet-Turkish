@@ -547,7 +547,7 @@
         <!-- Check Box-->
         <tr style="background-color: #f5f5f5">
             <td>&lt;CheckBox></td>
-            <td>Multiple selections from a set of choices</td>
+            <td>Birden fazla seçeneği çoklu seçici</td>
             <td>
                 React Native
                 <a href="https://facebook.github.io/react-native/docs/touchableopacity.html">
@@ -561,7 +561,7 @@
                     <li>checked</li>
                 </ul>
             </td>
-            <td>represents the state value of an item</td>
+            <td>Bir öğenin durum değerlerini temsil eder</td>
             <td></td>
         </tr>
         <tr>
@@ -570,7 +570,7 @@
                     <li>color</li>
                 </ul>
             </td>
-            <td>background color of checkbox</td>
+            <td>Onay kutusunun arka plan rengi</td>
             <td></td>
         </tr>
         <tr>
@@ -579,7 +579,7 @@
                     <li>onPress</li>
                 </ul>
             </td>
-            <td>Handler to be called when checkbox is tapped</td>
+            <td>Onay kutusuna dokunulduğunda çağrılacak yakalayıcı</td>
             <td></td>
         </tr>
         <!-- Content-->
