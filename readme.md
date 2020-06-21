@@ -1,7 +1,7 @@
 # NativeBase Cheat Sheet
 
 ### Basic Layout
-<table width="80%" >
+<table>
             <thead>
                 <tr>
                     <th>Bileşen</th>
@@ -42,7 +42,7 @@
 
 <h3>Components</h3>
 
-<table width="100%" class="table table-hover">
+<table>
             <thead>
                 <tr>
                     <th>Bileşen</th>
@@ -51,7 +51,6 @@
                 </tr>
             </thead>
             <tbody>
-
                 <!-- Accordion -->
                 <tr style="background-color: #f5f5f5">
                     <td>&lt;Accordion></td>
@@ -150,8 +149,6 @@
                     <td>Akordeonun içeriğinin özel tasarımı</td>
                     <td></td>
                 </tr>
-
-
                 <!-- ActionSheet -->
                 <tr style="background-color: #f5f5f5">
                     <td>&lt;ActionSheet></td>
