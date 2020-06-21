@@ -470,7 +470,7 @@
         <!-- CardItem -->
         <tr style="background-color: #f5f5f5">
             <td>&lt;CardItem></td>
-            <td>Child component of &lt;Card></td>
+            <td>&lt;Card>'ın alt bileşenidir</td>
             <td>
                 React Native
                 <a href="https://facebook.github.io/react-native/docs/touchableopacity.html">
@@ -487,7 +487,7 @@
                     <li>header</li>
                 </ul>
             </td>
-            <td>renders text as header for cards</td>
+            <td>Kart üstbilgi yazısı gösterir</td>
             <td></td>
         </tr>
         <tr>
@@ -496,7 +496,7 @@
                     <li>cardBody</li>
                 </ul>
             </td>
-            <td>body section for card</td>
+            <td>Kartın gövde parçası</td>
             <td></td>
         </tr>
         <tr>
@@ -505,7 +505,7 @@
                     <li>footer</li>
                 </ul>
             </td>
-            <td>renders text as footer for cards</td>
+            <td>Kartın altbilgi yazısı gösterir</td>
             <td></td>
         </tr>
         <tr>
@@ -514,7 +514,7 @@
                     <li>button</li>
                 </ul>
             </td>
-            <td>navigate on click of a card item</td>
+            <td>Bir kart öğesinin tıklanmasında gezinme</td>
             <td></td>
         </tr>
         <tr>
@@ -523,7 +523,7 @@
                     <li>bordered</li>
                 </ul>
             </td>
-            <td>adds border to card item</td>
+            <td>Kart öğelerine çerçeve ekler</td>
             <td></td>
         </tr>
         <tr>
@@ -532,7 +532,7 @@
                     <li>first</li>
                 </ul>
             </td>
-            <td>custom card border radius</td>
+            <td>Özel kart çerçeve köşesi yuvarlama</td>
             <td></td>
         </tr>
         <tr>
@@ -541,7 +541,7 @@
                     <li>last</li>
                 </ul>
             </td>
-            <td>custom card border radius</td>
+            <td>Özel kart çerçeve köşesi yuvarlama</td>
             <td></td>
         </tr>
         <!-- Check Box-->
