@@ -262,7 +262,7 @@
         <!-- Button -->
         <tr style="background-color: #f5f5f5">
             <td>&lt;Button></td>
-            <td>Submit or reset a form, Navigate etc</td>
+            <td>Bir formu göndermek veya sıfırlamak, Yönlendirme vb.</td>
             <td>
                 React Native - <br />
                 <a href="https://facebook.github.io/react-native/docs/touchableopacity.html">
@@ -279,7 +279,7 @@
                     <li>active</li>
                 </ul>
             </td>
-            <td>state of button</td>
+            <td>Buton durumu</td>
             <td></td>
         </tr>
         <tr>
@@ -288,7 +288,7 @@
                     <li>transparent</li>
                 </ul>
             </td>
-            <td>renders child element of button</td>
+            <td>Butonun alt elemanını işler(render)</td>
             <td></td>
         </tr>
         <tr>
@@ -297,7 +297,7 @@
                     <li>bordered</li>
                 </ul>
             </td>
-            <td>outline button style</td>
+            <td>Kenarlıklı buton biçimi</td>
             <td></td>
         </tr>
         <tr>
@@ -306,7 +306,7 @@
                     <li>rounded</li>
                 </ul>
             </td>
-            <td>button with slightly round shaped edges</td>
+            <td>Hafif yuvarlak şekilli kenarlı buton</td>
             <td></td>
         </tr>
         <tr>
@@ -315,7 +315,7 @@
                     <li>block</li>
                 </ul>
             </td>
-            <td>block level button</td>
+            <td>Kutu seviye buton</td>
             <td></td>
         </tr>
         <tr>
@@ -324,7 +324,7 @@
                     <li>full</li>
                 </ul>
             </td>
-            <td>full width button</td>
+            <td>Tam genişlikli buton</td>
             <td></td>
         </tr>
         <tr>
@@ -333,7 +333,7 @@
                     <li>disabled</li>
                 </ul>
             </td>
-            <td>disables click option for button</td>
+            <td>Tıklama özelliği kapalı buton</td>
             <td></td>
         </tr>
         <tr>
@@ -342,7 +342,7 @@
                     <li>small</li>
                 </ul>
             </td>
-            <td>small size button</td>
+            <td>Küçük boyutlu buton</td>
             <td></td>
         </tr>
         <tr>
@@ -351,7 +351,7 @@
                     <li>large</li>
                 </ul>
             </td>
-            <td>large size button</td>
+            <td>Geniş boyutlu buton</td>
             <td></td>
         </tr>
         <tr>
@@ -360,7 +360,7 @@
                     <li>iconLeft</li>
                 </ul>
             </td>
-            <td>aligns icon to the left in button</td>
+            <td>Butonun soluna hizalı simge</td>
             <td></td>
         </tr>
         <tr>
@@ -369,7 +369,7 @@
                     <li>iconRight</li>
                 </ul>
             </td>
-            <td>aligns icon to the right in button</td>
+            <td>Butonun sağuna hizalı simge</td>
             <td></td>
         </tr>
         <tr>
@@ -378,7 +378,7 @@
                     <li>light</li>
                 </ul>
             </td>
-            <td>light white background color</td>
+            <td>Açık beyar arka plan rengi</td>
             <td></td>
         </tr>
         <tr>
@@ -387,7 +387,7 @@
                     <li>primary</li>
                 </ul>
             </td>
-            <td>blue background color</td>
+            <td>Mavi arka plan rengi</td>
             <td></td>
         </tr>
         <tr>
@@ -396,7 +396,7 @@
                     <li>success</li>
                 </ul>
             </td>
-            <td>green background color</td>
+            <td>Yeşil arka plan rengi</td>
             <td></td>
         </tr>
         <tr>
@@ -405,7 +405,7 @@
                     <li>info</li>
                 </ul>
             </td>
-            <td>light blue background color</td>
+            <td>Açık mavi arka plan rengi</td>
             <td></td>
         </tr>
         <tr>
@@ -414,7 +414,7 @@
                     <li>warning</li>
                 </ul>
             </td>
-            <td>yellow background color</td>
+            <td>Sarı arka plan rengi</td>
             <td></td>
         </tr>
         <tr>
@@ -423,7 +423,7 @@
                     <li>danger</li>
                 </ul>
             </td>
-            <td>red background color</td>
+            <td>Kırmızı arka plan rengi</td>
             <td></td>
         </tr>
         <!-- Card -->
