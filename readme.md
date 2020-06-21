@@ -742,7 +742,7 @@
         <!-- Deck Swiper -->
         <tr style="background-color: #f5f5f5">
             <td>&lt;DeckSwiper></td>
-            <td>Swipes the card to left and right</td>
+            <td>Kartı sağa ve sola kaydırır</td>
             <td>
                 React Native
                 <a href="https://facebook.github.io/react-native/docs/view.html">
@@ -756,7 +756,7 @@
                     <li>dataSource</li>
                 </ul>
             </td>
-            <td>Chunk of data(object)</td>
+            <td>Veri yığını(nesne)(object)</td>
             <td></td>
         </tr>
         <tr>
@@ -765,7 +765,7 @@
                     <li>renderEmpty</li>
                 </ul>
             </td>
-            <td>Callback called when all cards are swiped & dataSource empty</td>
+            <td>Tüm kartlar kaydırıldığında ve veriler boşken geri çağrı yapar</td>
             <td></td>
         </tr>
         <tr>
@@ -774,7 +774,7 @@
                     <li>renderItem</li>
                 </ul>
             </td>
-            <td>Callback takes a chunk of data & returns a component</td>
+            <td>Geri çağrı bir yığın veri alır ve bir bileşen döndürür</td>
             <td></td>
         </tr>
         <tr>
@@ -783,7 +783,7 @@
                     <li>renderTop</li>
                 </ul>
             </td>
-            <td>Callback takes a chunk of data & returns a top layer component</td>
+            <td>Geri çağrı bir yığın veri alır ve bir üst katman bileşeni döndürür</td>
             <td></td>
         </tr>
         <tr>
@@ -792,7 +792,7 @@
                     <li>renderBottom</li>
                 </ul>
             </td>
-            <td>Callback takes a chunk of data & returns a bottom layer component</td>
+            <td>Geri çağrı bir yığın veri alır ve bir alt katman bileşeni döndürür</td>
             <td></td>
         </tr>
         <tr>
@@ -801,7 +801,7 @@
                     <li>looping</li>
                 </ul>
             </td>
-            <td>Loop through the data</td>
+            <td>Veri arasına geçiş yapar.(döngü)</td>
             <td></td>
         </tr>
         <tr>
@@ -810,7 +810,7 @@
                     <li>onSwipeRight</li>
                 </ul>
             </td>
-            <td>Callback called when Card is swiped Right</td>
+            <td>Kart sağa kaydırıldığında geri çağrı yapılır</td>
             <td></td>
         </tr>
         <tr>
@@ -819,7 +819,7 @@
                     <li>onSwipeLeft</li>
                 </ul>
             </td>
-            <td>Callback called when Card is swiped Left</td>
+            <td>Kart sola kaydırıldığında geri çağrı yapılır</td>
             <td></td>
         </tr>
         <!-- FABs -->
