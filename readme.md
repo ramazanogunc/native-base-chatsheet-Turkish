@@ -6,7 +6,7 @@
                 <tr>
                     <th>Bileşen</th>
                     <th>Açıklama</th>
-                    <th>Bileşen Değiştirme</th>
+                    <th>Değiştirilen Bileşen</th>
                 </tr>
             </thead>
             <tbody>
@@ -45,9 +45,9 @@
 <table width="100%" class="table table-hover">
             <thead>
                 <tr>
-                    <th>Component</th>
-                    <th>Description</th>
-                    <th>Replacing Component</th>
+                    <th>Bileşen</th>
+                    <th>Açıklama</th>
+                    <th>Değiştirilen Bileşen</th>
                 </tr>
             </thead>
             <tbody>
