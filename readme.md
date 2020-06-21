@@ -632,7 +632,7 @@
         <!-- Date Picker -->
         <tr style="background-color: #f5f5f5">
             <td>&lt;DatePicker></td>
-            <td>Select a date from a time range</td>
+            <td>Bir zaman aralığından bir tarih seçin</td>
             <td>
                 React Native
                 <a href="https://facebook.github.io/react-native/docs/datepickerios">
@@ -646,7 +646,7 @@
                     <li>defaultDate</li>
                 </ul>
             </td>
-            <td>Sets default date in calendar</td>
+            <td>Takvimde varsayılan zaman</td>
             <td></td>
         </tr>
         <tr>
@@ -655,7 +655,7 @@
                     <li>minimumDate</li>
                 </ul>
             </td>
-            <td>Sets minimum date that can be set in calendar</td>
+            <td>Takvimde ayarlanabilecek minimum tarihi ayarlar</td>
             <td></td>
         </tr>
         <tr>
@@ -664,7 +664,7 @@
                     <li>maximumDate</li>
                 </ul>
             </td>
-            <td>Sets maximum date that can be set in calender</td>
+            <td>Takvimde ayarlanabilecek maksimum tarihi ayarlar</td>
             <td></td>
         </tr>
         <tr>
@@ -673,7 +673,7 @@
                     <li>androidMode</li>
                 </ul>
             </td>
-            <td>can take either of values 'default','calendar','spinner'</td>
+            <td>eğeri sadece bir tanesi olabilir  'default'(varsayılan),'calendar'(takvim),'spinner'(değer değiştirici)</td>
             <td></td>
         </tr>
         <tr>
@@ -682,7 +682,7 @@
                     <li>animationType</li>
                 </ul>
             </td>
-            <td>can take either of values 'fade','slide','none'</td>
+            <td>Değeri sadece bir tanesi olabilir 'fade'(kaybol),'slide'(kay),'none'(hiç)</td>
             <td></td>
         </tr>
         <tr>
@@ -691,7 +691,7 @@
                     <li>disabled</li>
                 </ul>
             </td>
-            <td>Prevent user from making selection of date</td>
+            <td>Kullanıcının tarih seçmesini önler</td>
             <td></td>
         </tr>
         <tr>
@@ -700,7 +700,7 @@
                     <li>iconStyle</li>
                 </ul>
             </td>
-            <td>Icon style when accordion is closed</td>
+            <td>Akordeon kapalıyken simge biçimi</td>
             <td></td>
         </tr>
         <tr>
@@ -709,7 +709,7 @@
                     <li>expandedIconStyle</li>
                 </ul>
             </td>
-            <td>Icon style when accordion is open</td>
+            <td>Akordeon açıkken simge stili</td>
             <td></td>
         </tr>
         <tr>
@@ -718,7 +718,7 @@
                     <li>renderHeader</li>
                 </ul>
             </td>
-            <td>Custom design of Accordion header</td>
+            <td>Akordeon başlığının özel tasarımı</td>
             <td></td>
         </tr>
         <tr>
@@ -727,7 +727,7 @@
                     <li>renderContent</li>
                 </ul>
             </td>
-            <td>Custom design of Accordion content</td>
+            <td>Akordeon içeril özel tasarımı</td>
             <td></td>
         </tr>
         <tr>
@@ -736,7 +736,7 @@
                     <li>supportedOrientations</li>
                 </ul>
             </td>
-            <td>allows the modal to be rotated to any of the specified orientations</td>
+            <td>Modun belirtilen yönlerden herhangi birine döndürülmesine izin verir</td>
             <td></td>
         </tr>
         <!-- Deck Swiper -->
