@@ -585,7 +585,7 @@
         <!-- Content-->
         <tr style="background-color: #f5f5f5">
             <td>&lt;Content></td>
-            <td>Renders as body element of your screen</td>
+            <td>Ekranınızda gövde elemanını görüntüler</td>
             <td>
                 React Native
                 <a href="https://github.com/APSL/react-native-keyboard-aware-scroll-view">
@@ -599,7 +599,7 @@
                     <li>padder</li>
                 </ul>
             </td>
-            <td>applies margin at all sides to Content section</td>
+            <td>İçerik bölümüne her taraftan iç kenar boşluğu uygular</td>
             <td></td>
         </tr>
         <tr>
@@ -608,7 +608,7 @@
                     <li>disableKBDismissScroll</li>
                 </ul>
             </td>
-            <td>disables automatic scroll on focus</td>
+            <td>Odakta otomatik kaydırmayı devredışı bırakır</td>
             <td></td>
         </tr>
         <tr>
@@ -617,7 +617,7 @@
                     <li>enableResetScrollToCoords</li>
                 </ul>
             </td>
-            <td>lets the user enable or disable automatic resetScrollToCoords</td>
+            <td>Kullanıcı etkinleştirmesine izin ver veya otomatik 'resetScrollToCoords' kapat</td>
             <td></td>
         </tr>
         <tr>
@@ -626,7 +626,7 @@
                     <li>contentContainerStyle</li>
                 </ul>
             </td>
-            <td>lets the user style the <code>Content</code> component.</td>
+            <td>Kullanıcının <code>Content</code> bileşeninini biçimlendirmesine izin verir.</td>
             <td></td>
         </tr>
         <!-- Date Picker -->
