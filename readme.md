@@ -429,7 +429,7 @@
         <!-- Card -->
         <tr style="background-color: #f5f5f5">
             <td>&lt;Card></td>
-            <td>Flexible and extensible content container</td>
+            <td>Esnek ve uzayabilir içerik konteyner</td>
             <td>
                 React Native
                 <a href="https://facebook.github.io/react-native/docs/view.html">
@@ -444,8 +444,8 @@
                 </ul>
             </td>
             <td>
-                iOS - no card shadow<br />
-                Android - no elevation
+                iOS - Kart gölgesi yok (card shadow)<br />
+                Android - Bakış Açısı yok (elevation)
             </td>
             <td></td>
         </tr>
@@ -455,7 +455,7 @@
                     <li>dataArray</li>
                 </ul>
             </td>
-            <td>array of data chunks to render iteratively</td>
+            <td>ekrarlarlanan görünüm için veri parçaları dizisi.</td>
             <td></td>
         </tr>
         <tr>
@@ -464,7 +464,7 @@
                     <li>renderRow</li>
                 </ul>
             </td>
-            <td>Flag indicating whether empty section headers should be rendered</td>
+            <td>Boş bölüm başlıklarının oluşturulup oluşturulmayacağını belirten bayrak</td>
             <td></td>
         </tr>
         <!-- CardItem -->
