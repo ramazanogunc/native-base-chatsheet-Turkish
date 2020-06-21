@@ -1,7 +1,7 @@
 # NativeBase Cheat Sheet
 
 ### Basic Layout
-<table width="80%" class="table table-hover">
+<table width="80%" >
             <thead>
                 <tr>
                     <th>Bileşen</th>
@@ -55,7 +55,7 @@
                 <!-- Accordion -->
                 <tr style="background-color: #f5f5f5">
                     <td>&lt;Accordion></td>
-                    <td>Toggle the visibility of content across items of your screen</td>
+                    <td>Ekranın öğeler arasında içeriğin görünürlüğünü geçiş yapar</td>
                     <td>
                        -
                     </td>
@@ -66,7 +66,7 @@
                             <li>dataArray</li>
                         </ul>
                     </td>
-                    <td>Array of data chunks to render iteratively</td>
+                    <td>Tekrarlarlanan görünüm için veri parçaları dizisi.</td>
                     <td></td>
                 </tr>
                 <tr>
@@ -75,7 +75,7 @@
                             <li>expanded</li>
                         </ul>
                     </td>
-                    <td>Index of accordion set open</td>
+                    <td>Akordeonun bir dizisini açık yapar - Index of accordion set open</td>
                     <td></td>
                 </tr>
                 <tr>
@@ -84,7 +84,7 @@
                             <li>headerStyle</li>
                         </ul>
                     </td>
-                    <td>Style accordion header</td>
+                    <td>Akordeonun üstbilgi biçimi</td>
                     <td></td>
                 </tr>
                 <tr>
@@ -93,7 +93,7 @@
                             <li>contentStyle</li>
                         </ul>
                     </td>
-                    <td>Style accordion content</td>
+                    <td>Akordeonun içerik biçimi</td>
                     <td></td>
                 </tr>
                 <tr>
@@ -102,7 +102,7 @@
                             <li>icon</li>
                         </ul>
                     </td>
-                    <td>Icon when accordion is closed</td>
+                    <td>Akordeonun kapandığında simgesi</td>
                     <td></td>
                 </tr>
                 <tr>
@@ -111,7 +111,7 @@
                             <li>expandedIcon</li>
                         </ul>
                     </td>
-                    <td>Icon when accordion is open</td>
+                    <td>Akordeonun açıldığında simgesi</td>
                     <td></td>
                 </tr>
                 <tr>
@@ -120,7 +120,7 @@
                             <li>iconStyle</li>
                         </ul>
                     </td>
-                    <td>Icon style when accordion is closed</td>
+                    <td>IAkordeonun kapandığında simgesinin biçim</td>
                     <td></td>
                 </tr>
                 <tr>
@@ -129,7 +129,7 @@
                             <li>expandedIconStyle</li>
                         </ul>
                     </td>
-                    <td>Icon style when accordion is open</td>
+                    <td>Akordeonun açıldığında simgesinin biçimi</td>
                     <td></td>
                 </tr>
                 <tr>
@@ -138,7 +138,7 @@
                             <li>renderHeader</li>
                         </ul>
                     </td>
-                    <td>Custom design of Accordion header</td>
+                    <td>Akordeonun üstbilgisinin özel tasarımı</td>
                     <td></td>
                 </tr>
                 <tr>
@@ -147,7 +147,7 @@
                             <li>renderContent</li>
                         </ul>
                     </td>
-                    <td>Custom design of Accordion content</td>
+                    <td>Akordeonun içeriğinin özel tasarımı</td>
                     <td></td>
                 </tr>
 
