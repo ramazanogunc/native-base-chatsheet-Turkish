@@ -2107,7 +2107,7 @@
         <!-- ScrollableTab -->
         <tr style="background-color: #f5f5f5">
             <td>&lt;ScrollableTab></td>
-            <td>Horizontal scrolling of tabs</td>
+            <td>Yatay kaydırılabilir sekmeler</td>
             <td>
                 react-native-scrollable-tab-view
                 <a href="https://github.com/brentvatne/react-native-scrollable-tab-view">
@@ -2121,7 +2121,7 @@
                     <li>style</li>
                 </ul>
             </td>
-            <td>Style for ScrollableTab</td>
+            <td>Kaydırılabilen sekme biçimi</td>
             <td></td>
         </tr>
         <tr>
@@ -2130,7 +2130,7 @@
                     <li>tabsContainerStyle</li>
                 </ul>
             </td>
-            <td>Style for tabs within ScrollableTab</td>
+            <td>ScrollableTab içindeki sekmeler için biçimi</td>
             <td></td>
         </tr>
         <tr>
@@ -2139,7 +2139,7 @@
                     <li>underlineStyle</li>
                 </ul>
             </td>
-            <td>Style of the Scrollable Tab's underline</td>
+            <td>Kaydırılabilir Sekmenin alt çizgisinin stili</td>
             <td></td>
         </tr>
         <tr>
@@ -2148,7 +2148,7 @@
                     <li>onScroll</li>
                 </ul>
             </td>
-            <td>Function to call when pages are sliding</td>
+            <td>Sayfalar kaydığında çağrı işlevi</td>
             <td></td>
         </tr>
         <!-- Thumbnail -->
