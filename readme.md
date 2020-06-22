@@ -2301,8 +2301,8 @@
         </tr>
         <!-- Typography -->
         <tr style="background-color: #f5f5f5">
-            <td>Typography</td>
-            <td>Heading Tags</td>
+            <td>Tipgrafi</td>
+            <td>Başlık etiketleri</td>
             <td>
                 React Native
                 <a href="http://facebook.github.io/react-native/docs/text.html">
@@ -2316,7 +2316,7 @@
                     <li>H1</li>
                 </ul>
             </td>
-            <td>font-size: 27</td>
+            <td>yazı-boyutu: 27 - font-size: 27</td>
             <td></td>
         </tr>
         <tr>
@@ -2325,7 +2325,7 @@
                     <li>H2</li>
                 </ul>
             </td>
-            <td>font-size: 24</td>
+            <td>yazı-boyutu: 24 - font-size: 24</td>
             <td></td>
         </tr>
         <tr>
@@ -2334,7 +2334,7 @@
                     <li>H3</li>
                 </ul>
             </td>
-            <td>font-size: 21</td>
+            <td>yazı-boyutu: 21 - font-size: 21</td>
             <td></td>
         </tr>
     </tbody>
