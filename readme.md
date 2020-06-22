@@ -673,7 +673,7 @@
                     <li>androidMode</li>
                 </ul>
             </td>
-            <td>eğeri sadece bir tanesi olabilir  'default'(varsayılan),'calendar'(takvim),'spinner'(değer değiştirici)</td>
+            <td>Değeri sadece bir tanesi olabilir  'default'(varsayılan),'calendar'(takvim),'spinner'(değer değiştirici)</td>
             <td></td>
         </tr>
         <tr>
@@ -825,7 +825,7 @@
         <!-- FABs -->
         <tr style="background-color: #f5f5f5">
             <td>&lt;Fab></td>
-            <td>Provides special type of promoted action.</td>
+            <td>Özel tür tanıtılan işlem sağlar.</td>
             <td>
                 React Native
                 <a href="http://facebook.github.io/react-native/docs/animated.html">
@@ -839,7 +839,7 @@
                     <li>active</li>
                 </ul>
             </td>
-            <td>toggle status of FAB</td>
+            <td>FAB'nin durumunu değiştir</td>
             <td></td>
         </tr>
         <tr>
@@ -848,7 +848,7 @@
                     <li>direction</li>
                 </ul>
             </td>
-            <td>direction of buttons that popup on click of FAB</td>
+            <td>FAB tıklamasıyla açılan butonların yönü</td>
             <td></td>
         </tr>
         <tr>
@@ -857,7 +857,7 @@
                     <li>position</li>
                 </ul>
             </td>
-            <td>position of FAB on screen</td>
+            <td>Fab'ın ekrandaki pozisyonu</td>
             <td></td>
         </tr>
         <tr>
@@ -866,7 +866,7 @@
                     <li>containerStyle</li>
                 </ul>
             </td>
-            <td>padding options to render FAB</td>
+            <td>FAB oluşturmak için iç boşluk seçenekleri</td>
             <td></td>
         </tr>
         <!-- Footer Tabs -->
