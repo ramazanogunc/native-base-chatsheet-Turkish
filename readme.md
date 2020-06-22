@@ -1968,7 +1968,7 @@
         <!-- Tabs -->
         <tr style="background-color: #f5f5f5">
             <td>&lt;Tabs></td>
-            <td>Horizontal page swiper</td>
+            <td>Yatay sayfa kaydırır</td>
             <td>
                 react-native-scrollable-tab-view
                 <a href="https://github.com/brentvatne/react-native-scrollable-tab-view">
@@ -1982,7 +1982,7 @@
                     <li>locked</li>
                 </ul>
             </td>
-            <td>disable swipe</td>
+            <td>Kaydırma devredışı</td>
             <td></td>
         </tr>
         <tr>
@@ -1991,7 +1991,7 @@
                     <li>initialPage</li>
                 </ul>
             </td>
-            <td>set default active tab</td>
+            <td>Varsayılan aktif sekme</td>
             <td></td>
         </tr>
         <tr>
@@ -2000,7 +2000,7 @@
                     <li>page</li>
                 </ul>
             </td>
-            <td>set selected tab</td>
+            <td>Seçilen sekme değeri</td>
             <td></td>
         </tr>
         <tr>
@@ -2009,7 +2009,7 @@
                     <li>tabBarPosition</li>
                 </ul>
             </td>
-            <td>set position of Tabs</td>
+            <td>Sekme pozisyonu değeri</td>
             <td></td>
         </tr>
         <tr>
@@ -2018,7 +2018,7 @@
                     <li>tabBarUnderlineStyle</li>
                 </ul>
             </td>
-            <td>style of the default tab bar's underline</td>
+            <td>varsayılan sekme çubuğunun alt çizgisinin biçimi</td>
             <td></td>
         </tr>
         <tr>
@@ -2027,7 +2027,7 @@
                     <li>onChangeTab</li>
                 </ul>
             </td>
-            <td>function to call when tab changes</td>
+            <td>Sekme değiştirildiğinde çağrılacak fonskiyon</td>
             <td></td>
         </tr>
         <tr>
@@ -2036,7 +2036,7 @@
                     <li>onScroll</li>
                 </ul>
             </td>
-            <td>function to call when pages are sliding</td>
+            <td>Sayfalar kaydığında çağrı işlevi</td>
             <td></td>
         </tr>
         <!-- Tab, TabHeading -->
