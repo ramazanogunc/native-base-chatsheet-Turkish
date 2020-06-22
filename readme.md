@@ -1854,7 +1854,7 @@
                     <li>body</li>
                 </ul>
             </td>
-            <td>Native Base or React Native component(Visible Component)</td>
+            <td>Native Base veya React Native bileşen(Görünür bileşen)</td>
             <td></td>
         </tr>
         <tr>
@@ -1863,7 +1863,7 @@
                     <li>left</li>
                 </ul>
             </td>
-            <td>Native Base or React Native component(Left hidden Component)</td>
+            <td>Native Base veya React Native bileşen(Sol gizli bileşen)</td>
             <td></td>
         </tr>
         <tr>
@@ -1872,7 +1872,7 @@
                     <li>right</li>
                 </ul>
             </td>
-            <td>Native Base or React Native component(Right hidden Component)</td>
+            <td>Native Base veya React Native bileşen(Sağ gizli bileşen)</td>
             <td></td>
         </tr>
         <tr>
@@ -1881,7 +1881,7 @@
                     <li>leftOpenValue</li>
                 </ul>
             </td>
-            <td>TranslateX value for opening the row to the left (Positive Value)</td>
+            <td>Satırı sola açmak için TranslateX değeri (Pozitif Değer)</td>
             <td></td>
         </tr>
         <tr>
@@ -1890,7 +1890,7 @@
                     <li>rightOpenValue</li>
                 </ul>
             </td>
-            <td>TranslateX value for opening the row to the right (Negative Value)</td>
+            <td>Satırı sağa açmak için TranslateX değeri (Negatif Değer)</td>
             <td></td>
         </tr>
         <tr>
@@ -1899,7 +1899,7 @@
                     <li>stopLeftSwipe</li>
                 </ul>
             </td>
-            <td>TranslateX value to stop the row to the swipe left (Positive number)</td>
+            <td>Satırı sola hızlıca kaydırmayı durdurmak için TranslateX değeri (Pozitif sayı)</td>
             <td></td>
         </tr>
         <tr>
@@ -1908,7 +1908,7 @@
                     <li>stopRightSwipe</li>
                 </ul>
             </td>
-            <td>TranslateX value to stop the row to the swipe right (Negative number)</td>
+            <td>Satırı sağa hızlıca kaydırmak için TranslateX değeri (Negatif sayı)</td>
             <td></td>
         </tr>
         <tr>
@@ -1917,7 +1917,7 @@
                     <li>swipeToOpenPercent</li>
                 </ul>
             </td>
-            <td>Swipe percent of left/right component's width to trigger the row opening</td>
+            <td>Satır açıklığını tetiklemek için sol / sağ bileşen genişliğinin yüzdesini hızlıca kaydırın</td>
             <td></td>
         </tr>
         <tr>
@@ -1926,7 +1926,7 @@
                     <li>disableLeftSwipe</li>
                 </ul>
             </td>
-            <td>Disable ability to swipe the row left</td>
+            <td>Satırı sola hızlıca kaydırma özelliğini devre dışı bırak</td>
             <td></td>
         </tr>
         <tr>
@@ -1935,7 +1935,7 @@
                     <li>disableRightSwipe</li>
                 </ul>
             </td>
-            <td>Disable ability to swipe the row right</td>
+            <td>Satırı sağa hızlıca kaydırma özelliğini devre dışı bırak</td>
             <td></td>
         </tr>
         <tr>
@@ -1944,7 +1944,7 @@
                     <li>onRowOpen, onRowClose</li>
                 </ul>
             </td>
-            <td>Callback function which triggers when a swipe row is animating open/close</td>
+            <td>Kaydırma satırı aç / kapat animasyonu olduğunda tetiklenen geri arama işlevi</td>
             <td></td>
         </tr>
         <tr>
@@ -1953,7 +1953,7 @@
                     <li>openLeftRow, openRightRow</li>
                 </ul>
             </td>
-            <td>Dynamically toggle SwipeRow</td>
+            <td>SwipeRow'u dinamik olarak aç / kapat</td>
             <td></td>
         </tr>
         <tr>
@@ -1962,7 +1962,7 @@
                     <li>style</li>
                 </ul>
             </td>
-            <td>Style body</td>
+            <td>Gövde(body) biçimi</td>
             <td></td>
         </tr>
         <!-- Tabs -->
