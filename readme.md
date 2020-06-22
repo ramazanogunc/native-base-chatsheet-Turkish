@@ -2210,7 +2210,7 @@
         <!-- Toast -->
         <tr style="background-color: #f5f5f5">
             <td>&lt;Toast></td>
-            <td>Display quick warning or error messages</td>
+            <td>Hızlı uyarı veya hata mesajlarını görüntüleme</td>
             <td>
                 React Native
                 <a href="https://facebook.github.io/react-native/docs/view.html">
@@ -2224,7 +2224,7 @@
                     <li>text</li>
                 </ul>
             </td>
-            <td>text content to be shown in the toast</td>
+            <td>Tostta gösterilecek metin içeriği</td>
             <td></td>
         </tr>
         <tr>
@@ -2233,7 +2233,7 @@
                     <li>textStyle</li>
                 </ul>
             </td>
-            <td>style text content for toast</td>
+            <td>Toast içerik yazı biçimi</td>
             <td></td>
         </tr>
         <tr>
@@ -2242,7 +2242,7 @@
                     <li>buttonText</li>
                 </ul>
             </td>
-            <td>text to be displayed inside the button</td>
+            <td>Butonun içinde görüntülenecek metin</td>
             <td></td>
         </tr>
         <tr>
@@ -2251,7 +2251,7 @@
                     <li>buttonTextStyle</li>
                 </ul>
             </td>
-            <td>style button text for toast</td>
+            <td>Toasttaki butonun yazı biçimi</td>
             <td></td>
         </tr>
         <tr>
@@ -2260,7 +2260,7 @@
                     <li>buttonStyle</li>
                 </ul>
             </td>
-            <td>style button for toast</td>
+            <td>Toasttaki butonun biçimi</td>
             <td></td>
         </tr>
         <tr>
@@ -2269,7 +2269,7 @@
                     <li>position</li>
                 </ul>
             </td>
-            <td>sets position for the Toast</td>
+            <td>Toastın pozisyonu</td>
             <td></td>
         </tr>
         <tr>
@@ -2278,7 +2278,7 @@
                     <li>type</li>
                 </ul>
             </td>
-            <td>sets context to the Toast</td>
+            <td>Tost için tip belirler</td>
             <td></td>
         </tr>
         <tr>
@@ -2287,7 +2287,7 @@
                     <li>duration</li>
                 </ul>
             </td>
-            <td>milliseconds after which Toast disappers</td>
+            <td>Toast kaç milisaniye sonra kaybolacak</td>
             <td></td>
         </tr>
         <tr>
@@ -2296,7 +2296,7 @@
                     <li>onClose</li>
                 </ul>
             </td>
-            <td>called just before the toast hides</td>
+            <td>Toast kaybolmadan hemen önce çağrılır</td>
             <td></td>
         </tr>
         <!-- Typography -->
