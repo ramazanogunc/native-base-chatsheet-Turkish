@@ -2042,7 +2042,7 @@
         <!-- Tab, TabHeading -->
         <tr style="background-color: #f5f5f5">
             <td>&lt;Tab>,&lt;TabHeading></td>
-            <td>Individual Tab</td>
+            <td>Bireysel sekme</td>
             <td>
                 react-native-scrollable-tab-view
                 <a href="https://github.com/brentvatne/react-native-scrollable-tab-view">
@@ -2056,7 +2056,7 @@
                     <li>heading(only for Tab)</li>
                 </ul>
             </td>
-            <td>Label String, or Component</td>
+            <td>Etiket Dizesi veya Bileşeni</td>
             <td></td>
         </tr>
         <tr>
@@ -2065,7 +2065,7 @@
                     <li>style(only for TabHeading)</li>
                 </ul>
             </td>
-            <td>Style for TabHeading Component</td>
+            <td>TabHeading Bileşeni için biçim</td>
             <td></td>
         </tr>
         <tr>
@@ -2074,7 +2074,7 @@
                     <li>tabStyle</li>
                 </ul>
             </td>
-            <td>Style for tab bar</td>
+            <td>Sekme çubuğu biçimi</td>
             <td></td>
         </tr>
         <tr>
@@ -2083,7 +2083,7 @@
                     <li>activeTabStyle</li>
                 </ul>
             </td>
-            <td>Style for active tab bar</td>
+            <td>Aktif sekme çubuğu biçimi</td>
             <td></td>
         </tr>
         <tr>
@@ -2092,7 +2092,7 @@
                     <li>textStyle</li>
                 </ul>
             </td>
-            <td>Style for text</td>
+            <td>Yazı biçimi</td>
             <td></td>
         </tr>
         <tr>
@@ -2101,7 +2101,7 @@
                     <li>activeTextStyle</li>
                 </ul>
             </td>
-            <td>Style for active text</td>
+            <td>Aktif yazı biçimi/td>
             <td></td>
         </tr>
         <!-- ScrollableTab -->
