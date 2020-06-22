@@ -1639,7 +1639,7 @@
         <!--Radio Button-->
         <tr style="background-color: #f5f5f5">
             <td>&lt;Radio></td>
-            <td>Single selection from a set of choices</td>
+            <td>Seçenekler arasında tek seçici</td>
             <td>
                 React Native
                 <a href="http://facebook.github.io/react-native/docs/touchableopacity.html">
@@ -1653,7 +1653,7 @@
                     <li>selected</li>
                 </ul>
             </td>
-            <td>represents the state value of an item</td>
+            <td>Bir öğenin durum değerini temsil eder</td>
             <td></td>
         </tr>
         <tr>
@@ -1662,7 +1662,7 @@
                     <li>color</li>
                 </ul>
             </td>
-            <td>inactive radio color</td>
+            <td>Aktif olmayan radyo rengi</td>
             <td></td>
         </tr>
         <tr>
@@ -1671,13 +1671,13 @@
                     <li>selectedColor</li>
                 </ul>
             </td>
-            <td>active radio color</td>
+            <td>Aktif olan radyo rengi</td>
             <td></td>
         </tr>
         <!--Search bar-->
         <tr style="background-color: #f5f5f5">
             <td>Searchbar</td>
-            <td>Includes search bar in the &lt;Header> section</td>
+            <td>&lt;Header> bölümünde arama bölümü içerir.</td>
             <td>
                 React Native
                 <a href="https://facebook.github.io/react-native/docs/view.html">
@@ -1691,7 +1691,7 @@
                     <li>rounded</li>
                 </ul>
             </td>
-            <td>wraps the search bar with predefined border options</td>
+            <td>Arama çubuğunu önceden tanımlanmış kenarlık seçenekleriyle sarar.</td>
             <td></td>
         </tr>
         <!-- Segment -->
