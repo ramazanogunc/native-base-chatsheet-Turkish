@@ -1389,7 +1389,7 @@
         <!-- ListItem -->
         <tr style="background-color: #f5f5f5">
             <td>&lt;ListItem></td>
-            <td>Child component of &lt;List></td>
+            <td>&lt;List> in alt bileşeni</td>
             <td>
                 React Native<br />
                 <a href="http://facebook.github.io/react-native/docs/touchableopacity.html">
@@ -1406,7 +1406,7 @@
                     <li>button</li>
                 </ul>
             </td>
-            <td>navigate on click of a list item</td>
+            <td>Bir liste öğresi tıklantığında gezinme</td>
             <td></td>
         </tr>
         <tr>
@@ -1415,7 +1415,7 @@
                     <li>selected</li>
                 </ul>
             </td>
-            <td>highlights the selected item</td>
+            <td>Seçili öğeyi vurgular.</td>
             <td></td>
         </tr>
         <tr>
@@ -1424,7 +1424,7 @@
                     <li>enableEmptySections</li>
                 </ul>
             </td>
-            <td>flag indicating whether empty section headers should be rendered</td>
+            <td>Boş bölüm başlıklarının işlenip işlenmeyeceğini gösteren bayrak</td>
             <td></td>
         </tr>
         <tr>
@@ -1433,7 +1433,7 @@
                     <li>itemDivider</li>
                 </ul>
             </td>
-            <td>organize and group the list items</td>
+            <td>Liste öğelerini düzenleme ve gruplama</td>
             <td></td>
         </tr>
         <tr>
@@ -1442,7 +1442,7 @@
                     <li>itemHeader</li>
                 </ul>
             </td>
-            <td>style the item as the header for the ListItes</td>
+            <td>Öğeyi liste öğeleri için başlık olarak biçimlendir.</td>
             <td></td>
         </tr>
         <tr>
@@ -1451,7 +1451,7 @@
                     <li>first</li>
                 </ul>
             </td>
-            <td>adds style of first ListItem</td>
+            <td>İlk list öğesine biçim ekler</td>
             <td></td>
         </tr>
         <tr>
@@ -1460,7 +1460,7 @@
                     <li>last</li>
                 </ul>
             </td>
-            <td>adds style of last ListItem</td>
+            <td>Son list öğesine biçim ekler</td>
             <td></td>
         </tr>
         <tr>
@@ -1469,7 +1469,7 @@
                     <li>icon</li>
                 </ul>
             </td>
-            <td>to have list styling of icons</td>
+            <td>Simgeler listesi stiline sahip olmak</td>
             <td></td>
         </tr>
         <tr>
@@ -1478,7 +1478,7 @@
                     <li>avatar</li>
                 </ul>
             </td>
-            <td>style the list to have Avatars</td>
+            <td>Avatarlara sahip olmak için listeye stil verir.</td>
             <td></td>
         </tr>
         <tr>
@@ -1487,7 +1487,7 @@
                     <li>thumbnail</li>
                 </ul>
             </td>
-            <td>style the list to have Thumbnails</td>
+            <td>Küçük resimlere sahip olacak şekilde listeleme</td>
             <td></td>
         </tr>
         <tr>
@@ -1496,7 +1496,7 @@
                     <li>noIndent</li>
                 </ul>
             </td>
-            <td>removes margin from left</td>
+            <td>Soldan boşluğu siler</td>
             <td></td>
         </tr>
         <!--Picker-->
