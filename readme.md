@@ -8,17 +8,17 @@
     </thead>
     <tbody>
         <tr>
-            <td>\</td>
+            <td>&lt;Container></td>
             <td>Ekranın tam bölümü</td>
             <td>React Native <a href="https://facebook.github.io/react-native/docs/view.html">View</a></td>
         </tr>
         <tr>
-            <td>\</td>
+            <td>&lt;Header></td>
             <td>Ekranını Üstbilgi(Header) veya Gezinme Çubuğu(Navbar)</td>
             <td>React Native <a href="https://facebook.github.io/react-native/docs/view.html">View</a></td>
         </tr>
         <tr>
-            <td>\</td>
+            <td>&lt;Content></td>
             <td>Ekranın gövde(body) elemanı</td>
             <td>React Native <a
                     href="https://github.com/APSL/react-native-keyboard-aware-scroll-view">KeyboardAwareScrollView</a>
