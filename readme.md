@@ -2154,7 +2154,7 @@
         <!-- Thumbnail -->
         <tr style="background-color: #f5f5f5">
             <td>&lt;Thumbnail></td>
-            <td>Showcase an image with variuos dimensions and shapes</td>
+            <td>Görüntüyü çeşitli boyut ve şekillerde sergileyin</td>
             <td>
                 React Native
                 <a href="https://facebook.github.io/react-native/docs/image.html">
@@ -2168,7 +2168,7 @@
                     <li>source</li>
                 </ul>
             </td>
-            <td>size of icon</td>
+            <td>Simge boyutu</td>
             <td></td>
         </tr>
         <tr>
@@ -2177,7 +2177,7 @@
                     <li>circle</li>
                 </ul>
             </td>
-            <td>shape of thumbnail (default)</td>
+            <td>Vasayılan küçük resim şekli (yuvarlak)</td>
             <td></td>
         </tr>
         <tr>
@@ -2186,7 +2186,7 @@
                     <li>square</li>
                 </ul>
             </td>
-            <td>shape of thumbnail</td>
+            <td>Küçük resim şekli (kare)</td>
             <td></td>
         </tr>
         <tr>
@@ -2195,7 +2195,7 @@
                     <li>small</li>
                 </ul>
             </td>
-            <td>small thumbnail with width and height of 36px</td>
+            <td>Küçük küçük resim genişlik ve yükseklik 36px</td>
             <td></td>
         </tr>
         <tr>
@@ -2204,7 +2204,7 @@
                     <li>large</li>
                 </ul>
             </td>
-            <td>large thumbnail with width and height of 80px</td>
+            <td>Geçiş küçük resim genişlik ve yükseklik 80px</td>
             <td></td>
         </tr>
         <!-- Toast -->
