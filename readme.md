@@ -1098,7 +1098,7 @@
         <!-- Header -->
         <tr style="background-color: #f5f5f5">
             <td>&lt;Header></td>
-            <td>Renders as Header for your screen</td>
+            <td>Ekranda üstbilgiyi oluşturur</td>
             <td>
                 React Native
                 <a href="https://facebook.github.io/react-native/docs/view.html">
@@ -1112,7 +1112,7 @@
                     <li>&lt;Left></li>
                 </ul>
             </td>
-            <td>components render to the left in Header</td>
+            <td>Üstbilginin soluna bileşen oluşturur.</td>
             <td></td>
         </tr>
         <tr>
@@ -1121,7 +1121,7 @@
                     <li>&lt;Body></li>
                 </ul>
             </td>
-            <td>components render at the centre in Header</td>
+            <td>Üstbilginin merkezine bileşen oluşturur.</td>
             <td></td>
         </tr>
         <tr>
@@ -1130,7 +1130,7 @@
                     <li>&lt;Right></li>
                 </ul>
             </td>
-            <td>components render to the right in Header</td>
+            <td>Üstbilginin sağına bileşen oluşturur.</td>
             <td></td>
         </tr>
         <tr>
@@ -1139,7 +1139,7 @@
                     <li>iosBarStyle</li>
                 </ul>
             </td>
-            <td>set iOS barStyle</td>
+            <td>iOS kalıp biçimi(barStyle) verir</td>
             <td></td>
         </tr>
         <tr>
@@ -1148,7 +1148,7 @@
                     <li>androidStatusBarColor</li>
                 </ul>
             </td>
-            <td>set background color for status bar in android</td>
+            <td>Android durum çubuğu arka plan rengi veriri</td>
             <td></td>
         </tr>
         <tr>
@@ -1157,7 +1157,7 @@
                     <li>backgroundColor</li>
                 </ul>
             </td>
-            <td>set background color</td>
+            <td>Arka plan rengi verir</td>
             <td></td>
         </tr>
         <tr>
@@ -1166,7 +1166,7 @@
                     <li>noShadow</li>
                 </ul>
             </td>
-            <td>removes elevation from android</td>
+            <td>Android yükseliği(elevation) siler</td>
             <td></td>
         </tr>
         <tr>
@@ -1175,7 +1175,7 @@
                     <li>searchBar</li>
                 </ul>
             </td>
-            <td>add searchBar to header or not</td>
+            <td>Üstbilgiye arama kalıbı ekler veya eklemez</td>
             <td></td>
         </tr>
         <tr>
@@ -1184,7 +1184,7 @@
                     <li>rounded</li>
                 </ul>
             </td>
-            <td>make Header searchBar rounded</td>
+            <td>Üstbilgi arama çubuğu yuvarlak</td>
             <td></td>
         </tr>
         <tr>
@@ -1193,7 +1193,7 @@
                     <li>hasSubtitle</li>
                 </ul>
             </td>
-            <td>add subtitle to the Header component</td>
+            <td>Üstbilgi bileşenine alt başlık ekle</td>
             <td></td>
         </tr>
         <tr>
@@ -1202,7 +1202,7 @@
                     <li>hasSegment</li>
                 </ul>
             </td>
-            <td>add Segments to Header component</td>
+            <td>Üstbilgi bileşenine bölüm(segment) ekler</td>
             <td></td>
         </tr>
         <tr>
@@ -1211,7 +1211,7 @@
                     <li>hasTabs</li>
                 </ul>
             </td>
-            <td>add Tabs to Header component</td>
+            <td>Üstbilgi bileşenine Sekmeler ekler.</td>
             <td></td>
         </tr>
         <tr>
@@ -1220,7 +1220,7 @@
                     <li>hasText</li>
                 </ul>
             </td>
-            <td><code>button</code> prop, add padding to Left for Text Button (iOS)</td>
+            <td><code>button</code> prop, Metin butonu için Sola dolgu (iOS)</td>
             <td></td>
         </tr>
         <tr>
@@ -1229,7 +1229,7 @@
                     <li>noLeft</li>
                 </ul>
             </td>
-            <td>eliminates Left, moves Title to left (Android)</td>
+            <td>Solu kaldırır, Başlığı sola taşır (Android)</td>
             <td></td>
         </tr>
         <tr>
@@ -1238,7 +1238,7 @@
                     <li>span</li>
                 </ul>
             </td>
-            <td>doubles the header sizet</td>
+            <td>Başlık boyutunu ikiye katlar</td>
             <td></td>
         </tr>
         <tr>
@@ -1247,7 +1247,7 @@
                     <li>transparent</li>
                 </ul>
             </td>
-            <td>No Border, shadow, elevation</td>
+            <td> Kenarlık(Border), gölge(shadow), yükselti(elevation) yok </td>
             <td></td>
         </tr>
         <!-- Icon -->
