@@ -1327,7 +1327,7 @@
         <!-- Layout -->
         <tr style="background-color: #f5f5f5">
             <td>&lt;Grid></td>
-            <td>Cellular structure composed of Rows and Cols</td>
+            <td>Satır ve Sütunlardan oluşan hücresel yapı</td>
             <td>
                 React Native
                 <a href="https://facebook.github.io/react-native/docs/view.html">
@@ -1337,7 +1337,7 @@
         </tr>
         <tr style="background-color: #f5f5f5">
             <td>&lt;Col></td>
-            <td>Column component for grid</td>
+            <td>Izgara için sütun bileşeni</td>
             <td>
                 React Native
                 <a href="https://facebook.github.io/react-native/docs/view.html">
@@ -1347,7 +1347,7 @@
         </tr>
         <tr style="background-color: #f5f5f5">
             <td>&lt;Row></td>
-            <td>Row component for grid</td>
+            <td>Izgara için satır bileşeni</td>
             <td>
                 React Native
                 <a href="https://facebook.github.io/react-native/docs/view.html">
@@ -1358,7 +1358,7 @@
         <!-- List -->
         <tr style="background-color: #f5f5f5">
             <td>&lt;List></td>
-            <td>Specifying lists of information</td>
+            <td>Belirtilmiş bilgi listesi</td>
             <td>
                 React Native
                 <a href="https://facebook.github.io/react-native/docs/view.html">
@@ -1372,7 +1372,7 @@
                     <li>dataArray</li>
                 </ul>
             </td>
-            <td>array of data chunks to render iteratively.</td>
+            <td>Tekrarlarlanan görünüm için veri parçaları dizisi.</td>
             <td></td>
         </tr>
         <tr>
@@ -1382,7 +1382,7 @@
                 </ul>
             </td>
             <td>
-                Callback which takes a chunk of data from dataArray and returns as a component.
+                DataArray öğesinden bir veri parçası alan ve bir bileşen olarak geri dönen bilgi listelerini belirtme.
             </td>
             <td></td>
         </tr>
