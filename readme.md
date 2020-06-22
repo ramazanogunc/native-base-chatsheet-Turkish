@@ -1502,7 +1502,7 @@
         <!--Picker-->
         <tr style="background-color: #f5f5f5">
             <td>&lt;Picker></td>
-            <td>Native picker component</td>
+            <td>Yerel(native) seçici bileşen</td>
             <td>
                 React Native
                 <a href="https://facebook.github.io/react-native/docs/picker.html">
@@ -1516,7 +1516,7 @@
                     <li>renderHeader</li>
                 </ul>
             </td>
-            <td>makes component that appears as header of the Picker</td>
+            <td>Seçicinin başlığı olarak görünen bileşeni yapar.</td>
             <td></td>
         </tr>
         <tr>
@@ -1525,7 +1525,7 @@
                     <li>headerStyle</li>
                 </ul>
             </td>
-            <td>custom style to be given to Header</td>
+            <td>Üstbilgiye verilecek özel stil</td>
             <td></td>
         </tr>
         <tr>
@@ -1534,7 +1534,7 @@
                     <li>headerBackButtonText</li>
                 </ul>
             </td>
-            <td>custom text for the header back button</td>
+            <td>Üstbilgi geri butonu için özel metin</td>
             <td></td>
         </tr>
         <tr>
@@ -1543,7 +1543,7 @@
                     <li>headerBackButtonTextStyle</li>
                 </ul>
             </td>
-            <td>custom text style for the header back button</td>
+            <td>Üstbilgi geri butonu yazısı için özel metin</td>
             <td></td>
         </tr>
         <tr>
@@ -1552,7 +1552,7 @@
                     <li>headerTitleStyle</li>
                 </ul>
             </td>
-            <td>custom title style for the header title</td>
+            <td>Üstbilgi başlığı için özel başlık stili</td>
             <td></td>
         </tr>
         <tr>
@@ -1561,7 +1561,7 @@
                     <li>iosIcon</li>
                 </ul>
             </td>
-            <td>icon with picker dropdown</td>
+            <td>Seçici açılır menü ile simgele</td>
             <td></td>
         </tr>
         <tr>
@@ -1570,7 +1570,7 @@
                     <li>iosHeader</li>
                 </ul>
             </td>
-            <td>custom text for the header title</td>
+            <td>Üstbilgi başlığı için özel metin</td>
             <td></td>
         </tr>
         <tr>
@@ -1579,7 +1579,7 @@
                     <li>textStyle</li>
                 </ul>
             </td>
-            <td>text style of header</td>
+            <td>Üstbilgi özel yazı biçimi</td>
             <td></td>
         </tr>
         <tr>
@@ -1588,7 +1588,7 @@
                     <li>itemStyle</li>
                 </ul>
             </td>
-            <td>style of items in the Picker</td>
+            <td>Seçici içindeki öğelerin biçimi</td>
             <td></td>
         </tr>
         <tr>
@@ -1597,7 +1597,7 @@
                     <li>itemTextStyle</li>
                 </ul>
             </td>
-            <td>text style of item component in Picker</td>
+            <td>Seçici içindeki öğe bileşenlerinin yazı biçimi</td>
             <td></td>
         </tr>
         <tr>
@@ -1606,7 +1606,7 @@
                     <li>supportedOrientations</li>
                 </ul>
             </td>
-            <td>allows the modal to be rotated to any of the specified orientations</td>
+            <td>Modelin belirtilen yönlerden herhangi birine döndürülmesine izin verir</td>
             <td></td>
         </tr>
         <tr>
@@ -1615,7 +1615,7 @@
                     <li>placeholder</li>
                 </ul>
             </td>
-            <td>default placeholder when no value is selected in iOS</td>
+            <td>ios'ta hiçbir değer seçildiğinde varsayılan yer tutucu (placeolder)</td>
             <td></td>
         </tr>
         <tr>
@@ -1624,7 +1624,7 @@
                     <li>placeholderStyle</li>
                 </ul>
             </td>
-            <td>Custom style for placeholder text in iOS</td>
+            <td>İos'ta yer tutucu(placeholder) metin için özel biçim</td>
             <td></td>
         </tr>
         <tr>
@@ -1633,7 +1633,7 @@
                     <li>placeholderIconColor</li>
                 </ul>
             </td>
-            <td>Set placeholder icon color in iOS</td>
+            <td>İos'ta yer tutucu(placeholder) simge rengini ayarlama</td>
             <td></td>
         </tr>
         <!--Radio Button-->
