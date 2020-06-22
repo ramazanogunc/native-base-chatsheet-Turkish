@@ -910,7 +910,7 @@
         <!-- Form -->
         <tr style="background-color: #f5f5f5">
             <td>&lt;Form></td>
-            <td>Includes group of related input components</td>
+            <td>İlgili girdi bileşenleri grubunu içerir.</td>
             <td>
                 React Native
                 <a href="https://facebook.github.io/react-native/docs/view.html">
@@ -924,7 +924,7 @@
                     <li>&lt;Input></li>
                 </ul>
             </td>
-            <td>component for inputting text</td>
+            <td>Metin giriş bileşeni.</td>
             <td>
                 React Native
                 <a href="http://facebook.github.io/react-native/docs/textinput.html">
@@ -938,7 +938,7 @@
                     <li>&lt;Item></li>
                 </ul>
             </td>
-            <td>wrap around component with specific styles</td>
+            <td>Bileşeni belirli bi biçime sarar.</td>
             <td>
                 React Native
                 <a href="http://facebook.github.io/react-native/docs/touchableopacity.html">
@@ -952,7 +952,7 @@
                     <li>&lt;Label></li>
                 </ul>
             </td>
-            <td>component for displaying text</td>
+            <td>Metin görüntüleme bileşeni</td>
             <td>
                 React Native
                 <a href="http://facebook.github.io/react-native/docs/text.html">
@@ -966,7 +966,7 @@
                     <li>fixedLabel</li>
                 </ul>
             </td>
-            <td>label is fixed to the left of the Input</td>
+            <td>Giriş öğesinin soluna sabit yazı etiketler.</td>
             <td></td>
         </tr>
         <tr>
@@ -975,7 +975,7 @@
                     <li>floatingLabel</li>
                 </ul>
             </td>
-            <td>label that animates upwards/downwards when input is selected/erased</td>
+            <td>giriş seçildiğinde / silindiğinde yukarı / aşağı hareket eden etiket</td>
             <td></td>
         </tr>
         <tr>
@@ -984,7 +984,7 @@
                     <li>inlineLabel</li>
                 </ul>
             </td>
-            <td>label placed to the left of the input element</td>
+            <td>Giriş öğesinin soluna yerleştirilmiş etiket</td>
             <td></td>
         </tr>
         <tr>
@@ -993,7 +993,7 @@
                     <li>stackedLabel</li>
                 </ul>
             </td>
-            <td>places the label on top of input element which appears like a stack</td>
+            <td>Etiketi, yığın gibi görünen giriş öğesinin üstüne yerleştirir.</td>
             <td></td>
         </tr>
         <tr>
@@ -1002,7 +1002,7 @@
                     <li>bordered</li>
                 </ul>
             </td>
-            <td>includes border with the textbox</td>
+            <td>Metin kutusuyla kenarlık içerir.</td>
             <td></td>
         </tr>
         <tr>
@@ -1011,7 +1011,7 @@
                     <li>rounded</li>
                 </ul>
             </td>
-            <td>includes rounded border with the textbox</td>
+            <td>Metin kutusuyla yuvarlak kenarlık içerir</td>
             <td></td>
         </tr>
         <tr>
@@ -1020,7 +1020,7 @@
                     <li>regular</li>
                 </ul>
             </td>
-            <td>includes rectangular border with the textbox</td>
+            <td>Metin kutusuyla dikdörtgen kenarlık içerir</td>
             <td></td>
         </tr>
         <tr>
@@ -1029,7 +1029,7 @@
                     <li>underline</li>
                 </ul>
             </td>
-            <td>includes underline border with the textbox</td>
+            <td>Metin kutusuyla altı çizili kenarlık içerir</td>
             <td></td>
         </tr>
         <tr>
@@ -1038,7 +1038,7 @@
                     <li>disabled</li>
                 </ul>
             </td>
-            <td>disables inputting data</td>
+            <td>Giriş öğresine veri girişini kapatır</td>
             <td></td>
         </tr>
         <tr>
@@ -1047,7 +1047,7 @@
                     <li>placeholderLabel</li>
                 </ul>
             </td>
-            <td>renders the same way the TextInput does with the form styling of NativeBase</td>
+            <td>TextInput öğesinin NativeBase form biçimiyle yaptığı gibi işler</td>
             <td></td>
         </tr>
         <tr>
@@ -1056,7 +1056,7 @@
                     <li>placeholder</li>
                 </ul>
             </td>
-            <td>string that will be rendered before text input has been entered</td>
+            <td>Metin girişi girilmeden önce gösterilecek yazı</td>
             <td></td>
         </tr>
         <tr>
@@ -1065,7 +1065,7 @@
                     <li>placeholderTextColor</li>
                 </ul>
             </td>
-            <td>color of the Input placeholder</td>
+            <td>placeholder yazı rengi</td>
             <td></td>
         </tr>
         <tr>
@@ -1074,7 +1074,7 @@
                     <li>last</li>
                 </ul>
             </td>
-            <td>style the Form Item for the last Item of the Form</td>
+            <td>Formun son Öğesi için Form Öğesine stil verme</td>
             <td></td>
         </tr>
         <tr>
@@ -1083,7 +1083,7 @@
                     <li>error</li>
                 </ul>
             </td>
-            <td>border color of textbox for invalid input</td>
+            <td>Doğrulanmayan eri girişinde girdi kutusu kenarlığı rengi</td>
             <td></td>
         </tr>
         <tr>
@@ -1092,7 +1092,7 @@
                     <li>success</li>
                 </ul>
             </td>
-            <td>border color of textbox for valid input</td>
+            <td>Doğrulanan veri girişinde girdi kutusu kenarlığı rengi</td>
             <td></td>
         </tr>
         <!-- Header -->
