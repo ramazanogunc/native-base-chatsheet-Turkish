@@ -1697,7 +1697,7 @@
         <!-- Segment -->
         <tr style="background-color: #f5f5f5">
             <td>&lt;Segment></td>
-            <td>Best used as an alternative for tabs</td>
+            <td>Sekmeler için en iyi alternatif</td>
             <td>
                 React Native
                 <a href="https://facebook.github.io/react-native/docs/view.html">
@@ -1708,7 +1708,7 @@
         <!-- Spinner -->
         <tr style="background-color: #f5f5f5">
             <td>&lt;Spinner></td>
-            <td>Page loader</td>
+            <td>Sayfa yükleyici</td>
             <td>
                 React Native
                 <a href="https://facebook.github.io/react-native/docs/activityindicator.html">
@@ -1722,7 +1722,7 @@
                     <li>color</li>
                 </ul>
             </td>
-            <td>color of Spinner.</td>
+            <td>Sayfa yükleyici rengi</td>
             <td></td>
         </tr>
         <!-- Swipeable List(Multiple Rows) -->
