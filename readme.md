@@ -872,7 +872,7 @@
         <!-- Footer Tabs -->
         <tr style="background-color: #f5f5f5">
             <td>&lt;FooterTab></td>
-            <td>Tabs at Footer which is horizontal region of buttons or links for navigation.</td>
+            <td>Gezinme için butonları veya bağlantıların yatay bölgesi olan Altbilgideki Sekmeleri.</td>
             <td>
                 React Native
                 <a href="https://facebook.github.io/react-native/docs/view.html">
@@ -886,7 +886,7 @@
                     <li>active</li>
                 </ul>
             </td>
-            <td><code>button</code> prop, sets a footer button active</td>
+            <td><code>button</code> prop, Altbilgi butonu aktifliğini ayarlar</td>
             <td></td>
         </tr>
         <tr>
@@ -895,7 +895,7 @@
                     <li>badge</li>
                 </ul>
             </td>
-            <td><code>button</code> prop, set to <code>true</code> if using Badges.</td>
+            <td><code>button</code> prop, Rozet kullanacaksanız <code>true</code> yapmalısınız.</td>
             <td></td>
         </tr>
         <tr>
@@ -904,7 +904,7 @@
                     <li>vertical</li>
                 </ul>
             </td>
-            <td><code>button</code> prop, vertically align footer elements.
+            <td><code>button</code> prop, Altbilgi elemanlarını dikey hizalar
             <td></td>
         </tr>
         <!-- Form -->
