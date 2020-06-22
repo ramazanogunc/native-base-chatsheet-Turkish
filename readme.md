@@ -1728,7 +1728,7 @@
         <!-- Swipeable List(Multiple Rows) -->
         <tr style="background-color: #f5f5f5">
             <td>&lt;Swipeable List><br />(Multiple Rows)</td>
-            <td>Swipeable List are ListItems that swipe open and close</td>
+            <td>Kaydırılabilir Liste, açıp kapatan ListItems öğeleridir.</td>
             <td></td>
         </tr>
         <tr>
@@ -1737,7 +1737,7 @@
                     <li>dataSource</li>
                 </ul>
             </td>
-            <td>data chunks to render iteratively</td>
+            <td>Yinelemeli olarak oluşturulacak veri parçaları</td>
             <td></td>
         </tr>
         <tr>
@@ -1746,7 +1746,7 @@
                     <li>renderRow</li>
                 </ul>
             </td>
-            <td>Callback which takes a chunk of data from dataSource and returns as a body component, which is visible
+            <td>DataSource'dan bir veri parçası alan ve görünür bir gövde bileşeni olarak dönen geri çağrı
             </td>
             <td></td>
         </tr>
@@ -1756,7 +1756,7 @@
                     <li>renderLeftHiddenRow</li>
                 </ul>
             </td>
-            <td>Callback which takes a chunk of data from dataSource and returns as a left component, which is hidden
+            <td>Veri kaynağından bir veri yığını alan ve gizli bir sol bileşen olarak dönen geri arama
             </td>
             <td></td>
         </tr>
@@ -1766,7 +1766,7 @@
                     <li>renderRightHiddenRow</li>
                 </ul>
             </td>
-            <td>Callback which takes a chunk of data from dataSource and returns as a right component, which is hidden
+            <td>Veri kaynağından bir veri yığını alan ve gizli bir sağ bileşen olarak dönen geri arama
             </td>
             <td></td>
         </tr>
@@ -1780,12 +1780,12 @@
             <td></td>
         </tr>
         <tr>
-            <td>
+            <td>Satırın sola açılması için TranslateX değeri (pozitif değer)
                 <ul>
                     <li>rightOpenValue</li>
                 </ul>
             </td>
-            <td>TranslateX value for opening the row to the right (Negative Value)</td>
+            <td>TSatırın sağa açılması için TranslateX değeri (negatif değer)</td>
             <td></td>
         </tr>
         <tr>
@@ -1794,7 +1794,7 @@
                     <li>closeOnRowBeginSwipe</li>
                 </ul>
             </td>
-            <td>Open row be closed as soon as a row begin to swipe open</td>
+            <td>Bir satır açmaya başlar başlamaz açık satır kapatılır</td>
             <td></td>
         </tr>
         <tr>
@@ -1803,7 +1803,7 @@
                     <li>swipeToOpenPercent</li>
                 </ul>
             </td>
-            <td>Swipe percent of left/right component's width to trigger the row opening</td>
+            <td>Satır açıklığını tetiklemek için sol / sağ bileşen genişliğinin yüzdesini hızlıca kaydırın</td>
             <td></td>
         </tr>
         <tr>
@@ -1812,7 +1812,7 @@
                     <li>disableLeftSwipe</li>
                 </ul>
             </td>
-            <td>Disable ability to swipe the row left</td>
+            <td>Satırı sola hızlıca kaydırma özelliğini devre dışı bırak</td>
             <td></td>
         </tr>
         <tr>
@@ -1821,7 +1821,7 @@
                     <li>disableRightSwipe</li>
                 </ul>
             </td>
-            <td>Disable ability to swipe the row right</td>
+            <td>Satırı sağa hızlıca kaydırma özelliğini devre dışı bırak</td>
             <td></td>
         </tr>
         <tr>
@@ -1830,7 +1830,7 @@
                     <li>onRowOpen, onRowClose</li>
                 </ul>
             </td>
-            <td>Callback function which triggers when a swipe row is animating open/close</td>
+            <td>Kaydırma satırı aç / kapat animasyonu olduğunda tetiklenen geri arama işlevi</td>
             <td></td>
         </tr>
         <tr>
@@ -1839,7 +1839,7 @@
                     <li>onRowDidOpen, onRowDidClose</li>
                 </ul>
             </td>
-            <td>Callback function which triggers when a swipe row has animated open/close</td>
+            <td>Hızlıca kaydırma satırı açıldığında / kapatıldığında tetiklenen geri arama işlevi</td>
             <td></td>
         </tr>
         <!-- Swipeable List(Single Row) -->
