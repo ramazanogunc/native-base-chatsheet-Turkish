@@ -1253,7 +1253,7 @@
         <!-- Icon -->
         <tr style="background-color: #f5f5f5">
             <td>&lt;Icon></td>
-            <td>High definition icons and pixel ideal fonts</td>
+            <td>Yüksek tanımlı simgeler ve piksel ideal yazı tipleri</td>
             <td>
                 React Native Vector Icons
                 <a href="https://github.com/oblador/react-native-vector-icons#icon-component">
@@ -1267,7 +1267,7 @@
                     <li>name</li>
                 </ul>
             </td>
-            <td>name of icon</td>
+            <td>Simge ismi</td>
             <td></td>
         </tr>
         <tr>
@@ -1276,7 +1276,7 @@
                     <li>ios</li>
                 </ul>
             </td>
-            <td>name of the icon for iOS devices</td>
+            <td>iOS cihazlar için simge ismi</td>
             <td></td>
         </tr>
         <tr>
@@ -1285,7 +1285,7 @@
                     <li>android</li>
                 </ul>
             </td>
-            <td>name of the icon for Android devices</td>
+            <td>Android cihazlar için simge ismi</td>
             <td></td>
         </tr>
         <tr>
@@ -1294,7 +1294,7 @@
                     <li>active</li>
                 </ul>
             </td>
-            <td>renders filled icon</td>
+            <td>Dolgulu simge gösterir</td>
             <td></td>
         </tr>
         <tr>
@@ -1303,7 +1303,7 @@
                     <li>color</li>
                 </ul>
             </td>
-            <td>color for icon</td>
+            <td>Simge rengi</td>
             <td></td>
         </tr>
         <tr>
@@ -1312,7 +1312,7 @@
                     <li>fontSize</li>
                 </ul>
             </td>
-            <td>size of icon</td>
+            <td>Simge boyutu</td>
             <td></td>
         </tr>
         <tr>
@@ -1321,7 +1321,7 @@
                     <li>type</li>
                 </ul>
             </td>
-            <td>Specify icon family</td>
+            <td>Özel simge ailesi</td>
             <td></td>
         </tr>
         <!-- Layout -->
